@@ -1,0 +1,3 @@
+^h::
+Send, {BS}
+return
