@@ -1,0 +1,3 @@
+win+r
+shell:startup
+把文件拖入“启动”文件夹里
